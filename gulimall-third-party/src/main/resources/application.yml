@@ -9,12 +9,12 @@ spring:
       oss:
         endpoint: oss-cn-shenzhen.aliyuncs.com
         bucket: gulimall-who
-      access-key: LTAI5t6xwUWhwjUDB7oipamq
-      secret-key: TUPEbfSLgMTQMTU6RBLYMKoDcR5RO5
+      access-key:
+      secret-key:
       sms:
         host: https://dfsns.market.alicloudapi.com
         path: /data/send_sms
         tplid: TPL_0000
-        appcode: 19a2e16c1f304b49bc1a23a7cd1d847f
+        appcode:
 server:
   port: 30000
