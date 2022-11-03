@@ -1,0 +1,15 @@
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+  thymeleaf:
+    cache: false
+  application:
+    name: gulimall-search
+  redis:
+    host: 192.168.30.100
+  session:
+    store-type: redis
+server:
+  port: 12000

@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e5e8489-a4e8-4195-b9ef-d1aea28ef925" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/renren-fast/docker-compose.yml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/renren-fast/db/mysql.sql" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/gulimall-ware/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/renren-fast/src/main/resources/application-dev.yml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/RenrenApplication.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/gulimall-cart/src/main/java/com/atguigu/gulimall/cart/config/MyThreadConfig.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/renren-fast/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/gulimall-cart/src/main/java/com/atguigu/gulimall/cart/service/impl/CartServiceImpl.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\配置\apache-maven-3.8.1\maven-repo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../配置/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="E:\配置\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2FXBgNs5t9eYWLaxVNJCd6jMhcE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.11286682" />
+    <property name="project.structure.side.proportion" value="0.33070865" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.24032922" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project\gulimall\gulimall-third-party\src\main\resources" />
+      <recent name="E:\project\gulimall\gulimall-search\src\main\resources" />
+      <recent name="E:\project\gulimall\gulimall-member\src\main\resources" />
+      <recent name="E:\project\gulimall\gulimall-gateway\src\main\resources" />
+      <recent name="E:\project\gulimall\gulimall-coupon\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.atguigu.gulimall.thirdpart" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.gulimall.seckill.config" />
+      <recent name="com.atguigu.gulimall.seckill.interceptor" />
+      <recent name="com.atguigu.gulimall.member.config" />
+      <recent name="com.atguigu.gulimall.member.interceptor" />
+      <recent name="com.atguigu.common.exception" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="RedisCache" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Compound.gulimall">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="GulimallGatewayApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="GulimallProductApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="GulimallThirdPartApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="RenrenApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="GulimallCouponApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="GulimallMemberApplication" type="SpringBootApplicationConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gulimall" type="CompoundRunConfigurationType">
+      <toRun name="GulimallCouponApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="GulimallWareApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="GulimallSearchApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="GulimallAuthServerApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="RenrenApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="GulimallCartApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="GulimallOrderApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="GulimallProductApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="GulimallSeckillApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="GulimallGatewayApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="GulimallMemberApplication" type="SpringBootApplicationConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GulimallThirdPartyApplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gulimall-third-party" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gulimall.thirdpart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.gulimall.thirdpart" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.gulimall.thirdpart.GulimallThirdPartyApplicationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallThirdPartyApplicationTest.testUpload" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gulimall-third-party" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gulimall.thirdpart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.gulimall.thirdpart" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.gulimall.thirdpart.GulimallThirdPartyApplicationTest" />
+      <option name="METHOD_NAME" value="testUpload" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallAuthServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gulimall-auth-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gulimall.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gulimall.auth.GulimallAuthServerApplication" />
+      <option name="VM_PARAMETERS" value="-Xmx100m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallCartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gulimall-cart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gulimall.cart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gulimall.cart.GulimallCartApplication" />
+      <option name="VM_PARAMETERS" value="-Xmx100m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallCouponApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gulimall-coupon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gulimall.coupon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gulimall.coupon.GulimallCouponApplication" />
+      <option name="VM_PARAMETERS" value="-Xmx100m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gulimall-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gulimall.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gulimall.gateway.GulimallGatewayApplication" />
+      <option name="VM_PARAMETERS" value="-Xmx100m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallMemberApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gulimall-member" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gulimall.member.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gulimall.member.GulimallMemberApplication" />
+      <option name="VM_PARAMETERS" value="-Xmx100m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gulimall.order.GulimallOrderApplication" />
+      <option name="VM_PARAMETERS" value="-Xmx100m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gulimall-product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gulimall.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gulimall.product.GulimallProductApplication" />
+      <option name="VM_PARAMETERS" value="-Xmx100m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallSearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gulimall.search.GulimallSearchApplication" />
+      <option name="VM_PARAMETERS" value="-Xmx100m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallSeckillApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-seckill" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gulimall.seckill.GulimallSeckillApplication" />
+      <option name="VM_PARAMETERS" value="-Xmx100m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallThirdPartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-third-party" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gulimall.thirdpart.GulimallThirdPartApplication" />
+      <option name="VM_PARAMETERS" value="-Xmx100m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallWareApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gulimall-ware" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gulimall.ware.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gulimall.ware.GulimallWareApplication" />
+      <option name="VM_PARAMETERS" value="-Xmx100m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RenrenApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="renren-fast" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.renren.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.renren.RenrenApplication" />
+      <option name="VM_PARAMETERS" value="-Xmx100m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RenrenApplicationG" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="renren-generator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.renren.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.renren.RenrenApplication" />
+      <option name="VM_PARAMETERS" value="-Xmx100m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Compound.gulimall" />
+      <item itemvalue="JUnit.GulimallThirdPartyApplicationTest" />
+      <item itemvalue="JUnit.GulimallThirdPartyApplicationTest.testUpload" />
+      <item itemvalue="Spring Boot.GulimallCouponApplication" />
+      <item itemvalue="Spring Boot.GulimallGatewayApplication" />
+      <item itemvalue="Spring Boot.GulimallMemberApplication" />
+      <item itemvalue="Spring Boot.GulimallOrderApplication" />
+      <item itemvalue="Spring Boot.GulimallProductApplication" />
+      <item itemvalue="Spring Boot.GulimallSearchApplication" />
+      <item itemvalue="Spring Boot.GulimallThirdPartApplication" />
+      <item itemvalue="Spring Boot.GulimallWareApplication" />
+      <item itemvalue="Spring Boot.RenrenApplication" />
+      <item itemvalue="Spring Boot.GulimallAuthServerApplication" />
+      <item itemvalue="Spring Boot.GulimallCartApplication" />
+      <item itemvalue="Spring Boot.GulimallSeckillApplication" />
+      <item itemvalue="Spring Boot.RenrenApplicationG" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.RenrenApplicationG" />
+        <item itemvalue="JUnit.GulimallThirdPartyApplicationTest.testUpload" />
+        <item itemvalue="JUnit.GulimallThirdPartyApplicationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e5e8489-a4e8-4195-b9ef-d1aea28ef925" name="Default Changelist" comment="" />
+      <created>1664628661591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664628661591</updated>
+      <workItem from="1664628666661" duration="7479000" />
+      <workItem from="1664642638859" duration="1424000" />
+      <workItem from="1664686681437" duration="2658000" />
+      <workItem from="1664778898701" duration="8411000" />
+      <workItem from="1664865839724" duration="2919000" />
+      <workItem from="1664874009538" duration="3081000" />
+      <workItem from="1664893356953" duration="12907000" />
+      <workItem from="1664972504182" duration="6167000" />
+      <workItem from="1665037199944" duration="7776000" />
+      <workItem from="1665124398658" duration="11423000" />
+      <workItem from="1665322004644" duration="5707000" />
+      <workItem from="1665361683665" duration="10389000" />
+      <workItem from="1665454631743" duration="20519000" />
+      <workItem from="1665533550870" duration="9239000" />
+      <workItem from="1665630057008" duration="16301000" />
+      <workItem from="1665655849491" duration="9468000" />
+      <workItem from="1665758077919" duration="1552000" />
+      <workItem from="1665818779226" duration="4279000" />
+      <workItem from="1665991630594" duration="8456000" />
+      <workItem from="1666015203502" duration="1889000" />
+      <workItem from="1666059589691" duration="32539000" />
+      <workItem from="1666162003125" duration="6312000" />
+      <workItem from="1666187271858" duration="5047000" />
+      <workItem from="1666233174630" duration="20197000" />
+      <workItem from="1666255634073" duration="13024000" />
+      <workItem from="1666359901592" duration="6945000" />
+      <workItem from="1666418496305" duration="18086000" />
+      <workItem from="1666504424412" duration="17168000" />
+      <workItem from="1666591117946" duration="2091000" />
+      <workItem from="1666593260212" duration="264000" />
+      <workItem from="1666593547753" duration="225000" />
+      <workItem from="1666593794036" duration="14124000" />
+      <workItem from="1666670959001" duration="19718000" />
+      <workItem from="1666750188631" duration="20015000" />
+      <workItem from="1666848526464" duration="4998000" />
+      <workItem from="1666853813803" duration="18839000" />
+      <workItem from="1666923731305" duration="26000" />
+      <workItem from="1666936772557" duration="15650000" />
+      <workItem from="1666967882651" duration="8601000" />
+      <workItem from="1667008828436" duration="19945000" />
+      <workItem from="1667034465008" duration="603000" />
+      <workItem from="1667053810753" duration="718000" />
+      <workItem from="1667379052599" duration="610000" />
+      <workItem from="1667464823521" duration="340000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/renren-fast" />
+      <path value="$PROJECT_DIR$/renren-generator" />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
