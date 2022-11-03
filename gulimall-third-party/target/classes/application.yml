@@ -5,16 +5,6 @@ spring:
     nacos:
       discovery:
         server-addr: 127.0.0.1:8848
-    alicloud:
-      oss:
-        endpoint: oss-cn-shenzhen.aliyuncs.com
-        bucket: gulimall-who
-      access-key:
-      secret-key:
-      sms:
-        host: https://dfsns.market.alicloudapi.com
-        path: /data/send_sms
-        tplid: TPL_0000
-        appcode:
+
 server:
   port: 30000
